@@ -14,7 +14,7 @@ int restar(const int a, const int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
-int multiplicar(const int a, const int b) {
+int multiplicar( int a, int b) {
     return a*b; /* TODO: implementar */
 }
 
